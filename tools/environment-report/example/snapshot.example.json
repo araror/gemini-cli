@@ -1,0 +1,21 @@
+{
+  "connectors": [
+    {"name":"GitHub","description":"Manage issues, PRs, and repositories","connected":true,"enabledInChat":true},
+    {"name":"Google Drive","description":"Search, read, and upload files instantly","connected":true,"enabledInChat":true},
+    {"name":"Notion","description":"Search, update, and power workflows across tools","connected":true,"enabledInChat":true},
+    {"name":"Slack","description":"Send messages, create canvases, and fetch Slack data","connected":true,"enabledInChat":false},
+    {"name":"Linear","description":"Manage issues, projects & team workflows","enabledInChat":false},
+    {"name":"Asana","description":"Coordinate tasks, projects, and goals","enabledInChat":false}
+  ],
+  "skills": [
+    {"name":"environment-report"},
+    {"name":"pdf"},
+    {"name":"docx"},
+    {"name":"xlsx"}
+  ],
+  "plugins": [
+    {"name":"engineering"},
+    {"name":"productivity"},
+    {"name":"design"}
+  ]
+}
